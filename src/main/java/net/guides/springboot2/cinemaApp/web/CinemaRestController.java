@@ -46,6 +46,8 @@ public class CinemaRestController {
         });
         return listTickets;
     }
+
+
 }
 @Data
 class TicketForm{
